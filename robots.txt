@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oyadeve.github.io/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/app/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/assets/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/css/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/includes/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/item/sitemap.html.gz
+Sitemap: https://oyadeve.github.io/src/sitemap.html.gz
